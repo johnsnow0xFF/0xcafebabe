@@ -1,1 +1,5 @@
-[__mr_snow__]{https://cdn.spacetelescope.org/archives/images/newsfeature/heic0814a.jpg}[__mr_snow__]
+1aae7ec69ccafd18fae62720259c31056837b632d223bb0479737f9b89459252GET / HTTP/1.1
+Host: example.com
+User-Agent: curl/7.58.0
+Accept: */*
+3f35432bc90c51ce12d512093fe8bd3b90684e9261dbd2e8413002fb35e1d61f
