@@ -1,12 +1,11 @@
 HTTP/1.1 200 OK
-Accept-Ranges: bytes
 Cache-Control: max-age=604800
 Content-Type: text/html; charset=UTF-8
-Date: Mon, 16 Dec 2019 02:45:12 GMT
-Etag: "3147526947"
-Expires: Mon, 23 Dec 2019 02:45:12 GMT
+Date: Mon, 16 Dec 2019 02:47:23 GMT
+Etag: "3147526947+ident"
+Expires: Mon, 23 Dec 2019 02:47:23 GMT
 Last-Modified: Thu, 17 Oct 2019 07:18:26 GMT
-Server: ECS (dcb/7EEA)
+Server: ECS (dcb/7ECB)
 Vary: Accept-Encoding
 X-Cache: HIT
 Content-Length: 1256
