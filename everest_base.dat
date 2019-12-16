@@ -6,13 +6,13 @@ Via: 1.1 varnish
 access-control-allow-origin: *
 Content-Length: 1846338
 Accept-Ranges: bytes
-Date: Mon, 16 Dec 2019 04:17:02 GMT
+Date: Mon, 16 Dec 2019 04:18:10 GMT
 Via: 1.1 varnish
-Age: 110
+Age: 179
 Connection: close
-X-Served-By: cache-bwi5143-BWI, cache-yyz4526-YYZ
+X-Served-By: cache-bwi5143-BWI, cache-yyz4520-YYZ
 X-Cache: MISS, HIT
 X-Cache-Hits: 0, 1
-X-Timer: S1576469823.531777,VS0,VE1
+X-Timer: S1576469891.855633,VS0,VE0
 cache-control: max-age=86400
 
